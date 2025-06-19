@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: huzaifafev/todo-app:v1
+        image: huzaifafev/todo-app:v15
         ports:
         - containerPort: 8000
